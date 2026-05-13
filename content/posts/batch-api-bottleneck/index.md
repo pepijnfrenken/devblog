@@ -15,13 +15,13 @@ The config-driven approach lets me swap models without touching code:
 
 ```yaml
 models:
-  gpt4o:
+  gpt-5.5:
     provider: openai
     model: gpt-5.5
     temperature: 0.0
     max_tokens: 512
 
-  claude-opus:
+  claude-opus-4-7:
     provider: anthropic
     model: claude-opus-4-7
     temperature: 0.0

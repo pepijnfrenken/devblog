@@ -144,5 +144,3 @@ Building a cross-provider benchmark framework taught me more about API infrastru
 If you're building evaluation tools, plan for the infrastructure overhead from day one. And consider local models - they're weaker but they're *honest*. No batching surprises, no midnight retries, just predictable results you can trust.
 
 ---
-
-*The project is open source at [github.com/pepijnfrenken/grammar-benchmark](https://github.com/pepijnfrenken/grammar-benchmark) if you want to poke around or run your own benchmarks.*
